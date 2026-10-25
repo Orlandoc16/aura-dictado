@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+gui.log
+test.wav
+informes/
